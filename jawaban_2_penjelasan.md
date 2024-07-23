@@ -230,7 +230,6 @@ void user_menu() {
     }
 }
 
-
 9. Menentukan pilihan apakah pengguna adalah admin atau user dan memanggil menu yang sesuai.
 
 int main() {    

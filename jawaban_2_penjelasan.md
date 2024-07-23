@@ -1,9 +1,14 @@
-Nama : Chandika Eka pRasetya
+Nama : Chandika Eka Prasetya
 NIM : 20230801268
 Mata kuliah : Struktur Data
 Kode Soal/ Kelas : CSF204 - CR 001
 Dosen Pengampu : Ryan Putra Laksana, S.Kom, M.M
 Tugas : CRUD UAS - Perpustakaan
+
+* Link Youtube :
+https://youtu.be/zbqbbRfqecc?si=yEsToJnEhWLM3rZl
+* Link Github :
+https://github.com/Chandss28/UAS-Strukdat-
 
 Jadi pada kesempatan kali ini saya ingin menjelaskan program CRUD yang saya buat untuk UAS Struktur Data saya.
 Program diawali dengan membuka terminal Ubuntu, Navicat, dan juga Docker pastikan semua yang ada disana kosong, lalu mengikuti sesuai video penjelasan Youtube saya. Langsung masuk kedalam program untuk penjelasan kode :

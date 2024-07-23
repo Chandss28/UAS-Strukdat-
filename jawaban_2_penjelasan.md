@@ -87,6 +87,7 @@ void create_perbukuan(const string& judul, const string& penulis, const string& 
 
 4.  membaca dan menampilkan semua data dari tabel "klsss" yang ada di navicat.
 
+    {
     void get_perbukuan() {
     MYSQL* conn = connect_db();
     if (conn) {
@@ -110,9 +111,9 @@ void create_perbukuan(const string& judul, const string& penulis, const string& 
 
         mysql_free_result(res);
         mysql_close(conn);
-        }
+            }
+        }  
     }
-
 
 
 5. Memperbarui data buku yang ada dalam tabel klsss.
